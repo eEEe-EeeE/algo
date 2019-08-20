@@ -17,5 +17,7 @@ int main() {
         cout << e << endl;
     }
 
+    cout << "end" << endl;
+
     return 0;
 }
